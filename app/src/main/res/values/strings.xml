@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">submitilham</string>
+    <string name="nama_fighter">Nama Fighter</string>
+    <string name="ranking">Ranking</string>
+    <string name="identitas">Identitas</string>
+    <string name="isi_identitas">Isi Identitas</string>
+    <string name="daftar_identitas">Julukan \nLahir \nBB \nTB \nTeam \nKebangsaan</string>
+    <string name="deskripsi">Deskripsi Singkat</string>
+    <string name="isi_deskripsi">Isi Deskripsi</string>
+    <string name="namaku">Ilham Bagus Bahrudin</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="siswa_dicoding">Siswa Dicoding</string>
+    <string name="akun">Twitter \u0020 \u0020 \u0020 \u0020 @IlhamBahrudin
+                       \nEmail \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 ilhampersatu1972@gmail.com
+                       \nDicoding \u0020 \u0020 \u0020 users/ilhambagusbahrudin</string>
+</resources>
